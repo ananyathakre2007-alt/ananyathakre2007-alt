@@ -49,6 +49,16 @@ My Java DSA and problem-solving journey.
 
 [![LeetCode Repository](https://img.shields.io/badge/GitHub-View_Solutions-181717?style=for-the-badge&logo=github)](https://github.com/ananyathakre2007-alt/Leetcode)
 
+
+### 3. Insurance Premium Prediction API
+
+A Machine Learning REST API built using FastAPI that predicts insurance premium categories using user demographics, lifestyle and income data. Uses a trained Random Forest model.
+
+**Tech Stack:** Python | FastAPI | Scikit-learn | Pandas | NumPy | Pydantic
+
+[![Insurance API](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/ananyathakre2007-alt/Insurance-premium-prediction-API)
+
+
 ---
 
 ## 📊 GitHub Analytics
