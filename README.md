@@ -112,7 +112,6 @@ A collection of Java solutions documenting my journey through data structures, a
 
 ## 05 — CONTRIBUTION ACTIVITY
 
-<div align="center">
 
 **Consistent Learning • Problem Solving • Building Projects**
 
