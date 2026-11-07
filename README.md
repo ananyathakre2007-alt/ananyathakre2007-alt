@@ -54,7 +54,7 @@ I enjoy solving problems, exploring new technologies and building applications t
 **Backend & Development Tools**
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,streamlit,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,postgres,fastapi,idea,git,github,vscode" />
 </div>
 
 ---
