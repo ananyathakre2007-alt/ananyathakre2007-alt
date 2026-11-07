@@ -107,13 +107,18 @@ A collection of Java solutions documenting my journey through data structures, a
 
 </div>
 
+
 ---
 
 ## 05 — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ananyathakre2007-alt&bg_color=10172A&color=E5E7EB&line=7651B5&point=D6B66B&area=true&hide_border=true" />
+**Consistent Learning • Problem Solving • Building Projects**
+
+<br/>
+
+*Actively improving my coding skills through Java DSA, Python development, and AI/ML projects.*
 
 </div>
 
