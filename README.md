@@ -77,11 +77,7 @@ A Machine Learning REST API built using FastAPI that predicts insurance premium 
 
 ## 📈 Contribution Activity
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyathakre2007-alt&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
